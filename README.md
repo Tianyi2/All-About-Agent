@@ -3,8 +3,8 @@
 Personal learning notes on AI Agents — what they are, how they're engineered, and where they're being deployed. Source materials live in [`resources/`](resources/); my distilled notes live at the repo root. Please view the [PPT](all-about-agent.pptx) as the main summary note.
 
 ## Updates
-- [2026/May/19] Read a Zhihu post about "How to design a good vertical agent". Please check [note](notes/vertical_agent.md)
-- [2026/May/19] Finialize reading on [Agent Report](resources/AI-Agent-technical-development-report.pdf) from China Academy of Industrial Internet and suani. Please check [my note](notes/ai_agent_report.md).
+- [2026/May/19] Read a Zhihu post about "How to design a good vertical agent". Please check [my note `vertical_agent.md`](notes/vertical_agent.md).
+- [2026/May/19] Finialize reading on [Agent Report](resources/AI-Agent-technical-development-report.pdf) from China Academy of Industrial Internet and suani. Please check [my note `ai_agent_report.md`](notes/ai_agent_report.md).
 
 
 ## Contents
@@ -22,7 +22,9 @@ Personal learning notes on AI Agents — what they are, how they're engineered, 
 
 ## Notes
 
-- [`notes/ai_agent_report.md`](notes/ai_agent_report.md) — Study note distilled from the AI Agent 智能体技术发展报告 (China Academy of Industrial Internet, Jan 2026). Covers the four-module cognitive loop (Perception → Brain → Action → Memory), decision frameworks (CoT, ReAct, Plan-and-Execute, Reflection), Multi-Agent Systems, MCP / A2A protocols, frameworks & low-code platforms, industry applications, and risks.
+- [`notes/ai_agent_report.md`](notes/ai_agent_report.md) — Study note about AI Agent introduction. By reading it, you will have a general idea of what is AI Agent, the ways to build an AI Agent, the industry agent applications, and current agent risks.
+- [`notes/vertical_agent.md`](notes/vertical_agent.md) — Personal thinking on what makes a vertical AI agent actually useful. By reading it, you will have a general idea on what to think about when design an AI Agent. 
+
 
 
 ## License

@@ -3,6 +3,7 @@
 Personal learning notes on AI Agents — what they are, how they're engineered, and where they're being deployed. Source materials live in [`resources/`](resources/); my distilled notes live at the repo root. Please view the [PPT](all-about-agent.pptx) as the main summary note.
 
 ## Updates
+- [2026/May/19] Read a Zhihu post about "How to design a good vertical agent". Please check [note](notes/vertical_agent.md)
 - [2026/May/19] Finialize reading on [Agent Report](resources/AI-Agent-technical-development-report.pdf) from China Academy of Industrial Internet and suani. Please check [my note](notes/ai_agent_report.md).
 
 
@@ -17,6 +18,7 @@ Personal learning notes on AI Agents — what they are, how they're engineered, 
 ## Resources
 
 - [`resources/AI-Agent-technical-development-report.pdf`](resources/AI-Agent-technical-development-report.pdf) — *AI Agent 智能体技术发展报告*, the primary source for `ai_agent_report.md`.
+- [`resources/references.txt`](resources/references.txt) - References links (mostly online posts) used to write notes. 
 
 ## Notes
 

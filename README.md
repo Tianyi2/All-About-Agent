@@ -18,6 +18,8 @@ Personal learning notes on AI Agents — what they are, how they're engineered, 
 ## Resources
 
 - [`resources/AI-Agent-technical-development-report.pdf`](resources/AI-Agent-technical-development-report.pdf) — *AI Agent 智能体技术发展报告*, the primary source for `ai_agent_report.md`.
+- [`resources/forward_deployed_engineering_guide-v0.2.0`](resources/forward_deployed_engineering_guide-v0.2.0.pdf) - A book about FDE (check [source](https://github.com/pierpaolo28/Awesome-FDE-Roadmap/tree/main)) 
+- [`resources/Awesome-FDE-Roadmap.md`](resources/Awesome-FDE-Roadmap.md) - Roadmap about FDE (check [source](https://github.com/pierpaolo28/Awesome-FDE-Roadmap/tree/main))
 - [`resources/references.txt`](resources/references.txt) - References links (mostly online posts) used to write notes. 
 
 ## Notes
